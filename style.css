@@ -51,6 +51,11 @@ body {
     font-weight: var(--fw-600);
 }
 
+.attribution {
+    
+    color: hsla(0, 0%, 100%, 0.6);
+}
+
 /* components*/
 .hero-button{
     color: var(--clr-Violet);
